@@ -1,8 +1,12 @@
+print("Hello, World!")
+
+msg = "Hello, World!"
+if (3 < 2):
+    msg = "It works!"
+else:
+    msg = "It doesn't work!"
+
+print(msg)
 
 
-def main():
-    print('Hello, World!')
-
-
-if __file__ == '__main__':
-    main()
+print('Done!')
